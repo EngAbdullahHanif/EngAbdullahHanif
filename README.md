@@ -1,9 +1,6 @@
 # 👨‍💻 Abdullah Hanif
 
-🌟 Welcome to my GitHub profile!
-
-## About Me
-Hi, I'm Abdullah Hanif, a **Data Scientist** with a strong foundation in **Machine Learning** and a passion for leveraging technology to solve challenges in **Bioinformatics** and **Phage Therapy**. I am currently pursuing a Master's in **Bioinformatics** at Universität des Saarlandes, focusing on applying **data-driven solutions** in the medical field.
+Hi, I'm a **Data Scientist** with a strong foundation in **Machine Learning** and a passion for leveraging technology to solve challenges in **Bioinformatics** and **Phage Therapy**. I am currently pursuing a Master's in **Bioinformatics** at Universität des Saarlandes, focusing on applying **data-driven solutions** in the medical field.
 
 ## Interests & Projects
 - 🧬 **Phage Therapy**: Exploring machine learning models to optimize phage therapy and combat antibiotic resistance.
