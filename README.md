@@ -13,8 +13,3 @@ Hi, I'm a **Data Scientist** with a strong foundation in **Machine Learning** an
 - Bioinformatics and healthcare-related machine learning projects.
 - Sequence analysis and visualization tools.
 - Web applications in Python or Django.
-
-## Contact Me
-📧 Email: engabdullahhanif@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/engabdullahhanif](https://www.linkedin.com/in/engabdullahhanif/)  
-
