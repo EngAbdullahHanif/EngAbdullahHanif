@@ -5,8 +5,8 @@ Hi, I'm a **Data Scientist** with a strong foundation in **Machine Learning** an
 ## Interests & Projects
 - 🧬 **Phage Therapy**: Exploring machine learning models to optimize phage therapy and combat antibiotic resistance.
 - 🔬 **Sequence Analysis**: Developing efficient tools for **reading and interpreting biological sequences**.
-- 🤖 **Machine Learning**: Creating predictive models for diverse applications in healthcare and eCommerce.
-- 🌐 **Web Development**: Building scalable applications with **Django**, **PHP**, and modern front-end frameworks.
+- 🤖 **Machine Learning**: Creating predictive models for diverse applications in healthcare.
+- 🌐 **Web Development**: Crafting APIs with Python and Django for scalable and efficient solutions.
 
 ## Collaboration
 💡 I am always excited to collaborate on:
